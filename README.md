@@ -71,4 +71,30 @@ This repository is a comprehensive collection of the most popular and useful Thr
 - [Harpoon](https://github.com/Te-k/harpoon): OSINT Tool to Gather and Visualize Threat Intelligence.
 - [FS-Scanner](https://github.com/mikesxrs/fs-scanner): File System Scanner.
 
+# Threat Hunting and Detection Tools
+
+- [Atomic Red Team](https://atomicredteam.io/): Collection of adversary emulation tools that can be used to test and evaluate the effectiveness of security controls and processes.
+- [Velociraptor](https://www.velocidex.com/): Digital Forensics and Incident Response (DFIR) platform for live Volatility memory analysis, endpoint monitoring, and threat hunting.
+- [Osquery](https://osquery.io/): SQL-powered operating system analytics that can be used for monitoring and detecting threats on endpoints.
+- [YARA](https://virustotal.github.io/yara/): Pattern matching swiss knife for malware researchers, threat hunters, and incident responders.
+- [Zeek](https://zeek.org/): Network security monitor that can be used for real-time analysis, detection, and response.
+- [Snort](https://www.snort.org/): Network intrusion detection and prevention system that can be used for real-time threat detection and response.
+- [Suricata](https://suricata-ids.org/): Network intrusion detection and prevention system that can be used for real-time threat detection and response.
+- [Bro](https://www.bro.org/): Network security monitor that can be used for real-time analysis, detection, and response.
+- [Moloch](https://molo.ch/): Large scale, open source, indexed packet capture and search system that can be used for full packet capture, indexing, and network traffic analysis.
+- [Security Onion](https://securityonion.net/): Linux distribution for intrusion detection, network security monitoring, and log management.
+- [ELK Stack](https://www.elastic.co/elk-stack): Collection of three open source projects, Elasticsearch, Logstash, and Kibana, that can be used for log aggregation, analysis, and visualization.
+- [TheHive](https://thehive-project.org/): Incident response and case management platform that can be used for collaboration, analysis, and response to security incidents.
+- [MISP](https://www.misp-project.org/): Threat intelligence platform that can be used for sharing, storing, and correlating IOCs and other security-related data.
+- [Sigma](https://github.com/Neo23x0/sigma): Generic signature format for SIEM systems that can be used for writing and sharing detection rules.
+- [GRR Rapid Response](https://github.com/google/grr): Open source incident response and remote live forensics for Windows, Linux, and macOS endpoints.
+- [Volatility](https://www.volatilityfoundation.org/): Advanced memory forensics framework that can be used for analyzing and detecting malware in memory dumps.
+- [CAPE](https://github.com/kevoreilly/CAPEv2): Automated malware analysis platform that can be used for dynamic analysis of malware samples.
+- [Cuckoo Sandbox](https://cuckoosandbox.org/): Automated malware analysis sandbox that can be used for analyzing malware behavior in a safe environment.
+- [ReversingLabs TitaniumCore](https://www.reversinglabs.com/platform/titaniumcore): Malware analysis platform that uses static and dynamic analysis techniques to provide threat intelligence.
+- [Joe Sandbox](https://www.joesecurity.org/): Automated malware analysis sandbox that can be used for analyzing malware behavior in a safe environment.
+- [Malware Information Sharing Platform (MISP)](https://www.misp-project.org/): Threat intelligence platform that can be used for sharing, storing, and correlating IOCs and other security-related data.
+
+
+
 
