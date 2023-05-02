@@ -1,53 +1,75 @@
 # Biggest-cyber-Resource-
 This repository is a comprehensive collection of the most popular and useful cybersecurity resources available on the internet. It includes resources related to various cybersecurity domains, such as network security, web application security, mobile application security, cryptography, and more.
+
 import webbrowser
 
-# Categories
-security_testing = ['Web Application Penetration Testing', 'Network Penetration Testing', 'Mobile Application Penetration Testing', 'Cloud Penetration Testing', 'Wireless Penetration Testing', 'Social Engineering']
-vulnerability_scanning = ['Web Vulnerability Scanners', 'Network Vulnerability Scanners', 'Mobile Application Security Tools', 'Cloud Security Tools']
-exploit_development = ['Web Exploitation', 'Network Exploitation', 'Mobile Exploitation', 'Wireless Exploitation']
-malware_analysis = ['Static Analysis Tools', 'Dynamic Analysis Tools', 'Memory Forensics', 'Sandboxing Tools']
-reverse_engineering = ['Disassemblers', 'Debuggers', 'Hex Editors', 'Memory Dumping Tools']
-forensics = ['Disk Imaging', 'Memory Imaging', 'File Carving', 'Network Forensics', 'Mobile Forensics']
-defensive_security = ['Intrusion Detection and Prevention Systems', 'Security Information and Event Management', 'Web Application Firewalls', 'Endpoint Protection']
+# Threat Intelligence Resources
+open_source_intelligence = [
+    'https://inteltechniques.com/menu.html',
+    'https://github.com/jivoi/awesome-osint',
+    'https://www.osintessentials.com/',
+    'https://github.com/Ph055a/OSINT-Collection',
+    'https://osintframework.com/',
+    'https://www.shodan.io/',
+    'https://www.whois.com/whois/',
+    'https://haveibeenpwned.com/',
+    'https://spyse.com/',
+    'https://hunter.io/',
+    'https://www.google.com/advanced_search',
+    'https://www.censys.io/',
+    'https://github.com/leebaird/discover',
+    'https://github.com/sherlock-project/sherlock']
 
-# Resources
-web_application_penetration_testing = [
-    'https://portswigger.net/web-security', 
-    'https://www.owasp.org/index.php/OWASP_Zed_Attack_Proxy_Project', 
-    'https://nmap.org/', 
-    'https://www.acunetix.com/',
-    'https://www.burp.com/', 
-    'https://www.veracode.com/',
-    'https://sourceforge.net/projects/sqlmap/',
-    'https://www.metasploit.com/',
-    'https://www.exploit-db.com/', 
-    'https://github.com/danielmiessler/SecLists',
-    'https://github.com/swisskyrepo/PayloadsAllTheThings',
-    'https://github.com/OWASP/OWASP-Web-Testing-Environment',
-    'https://www.tenable.com/products/nessus/nessus-professional']
-    
-network_penetration_testing = [
-    'https://nmap.org/', 
-    'https://www.rapid7.com/products/metasploit/download/', 
-    'https://www.acunetix.com/', 
-    'https://www.exploit-db.com/',
-    'https://github.com/danielmiessler/SecLists',
-    'https://github.com/swisskyrepo/PayloadsAllTheThings',
-    'https://github.com/OWASP/OWASP-Testing-Guide',
-    'https://www.tenable.com/products/nessus/nessus-professional',
-    'https://www.coresecurity.com/products/core-impact',
-    'https://www.faradaysec.com/',
-    'https://www.netsparker.com/',
-    'https://www.qualys.com/']
-    
-mobile_application_penetration_testing = [
-    'https://developer.android.com/studio/', 
-    'https://www.virtualbox.org/', 
-    'https://www.genymotion.com/', 
-    'https://www.apktool.com/',
-    'https://www.mobisec.re/',
-    'https://frida.re/',
-    'https://github.com/MobSF/Mobile-Security-Framework-MobSF',
-    'https://github.com/dpnishant/appmon',
-    'https://github.com/OWASP/owasp-mstg',
+dark_web_intelligence = [
+    'https://www.torproject.org/',
+    'https://darkwebnews.com/',
+    'https://www.deepwebsiteslinks.com/',
+    'https://www.darknetmarkets.org/',
+    'https://www.deepdotweb.com/',
+    'https://dark.fail/',
+    'https://www.torbox.ch/',
+    'https://github.com/jhaddix/domain',
+    'https://github.com/pielco11/fake-user-agent',
+    'https://github.com/davidtavarez/pwndb',
+    'https://github.com/monkeym4ster/OSINT/blob/master/shodan.py',
+    'https://github.com/samuelproject/OpenWebSpider']
+
+threat_intelligence_platforms = [
+    'https://www.recordedfuture.com/',
+    'https://www.threatminer.org/',
+    'https://www.cyberbackgroundchecks.com/',
+    'https://threatconnect.com/',
+    'https://www.threatq.com/',
+    'https://www.anomali.com/',
+    'https://www.flashpoint-intel.com/',
+    'https://www.farsightsecurity.com/',
+    'https://www.fireeye.com/',
+    'https://www.mcafee.com/',
+    'https://www.symantec.com/',
+    'https://www.trendmicro.com/']
+
+blogs = [
+    'https://www.fireeye.com/blog/threat-research.html',
+    'https://www.recordedfuture.com/blog/',
+    'https://blog.threatconnect.com/',
+    'https://blog.talosintelligence.com/',
+    'https://www.paloaltonetworks.com/research',
+    'https://www.f-secure.com/en/business/resources',
+    'https://www.cybereason.com/blog']
+
+videos = [
+    'https://www.youtube.com/watch?v=87vOvaWxcPE',
+    'https://www.youtube.com/watch?v=BJSgOyXMUYY',
+    'https://www.youtube.com/watch?v=2fI0XZLx6fs',
+    'https://www.youtube.com/watch?v=GJjEoS7mJgw',
+    'https://www.youtube.com/watch?v=Yzj-3gTb8PQ',
+    'https://www.youtube.com/watch?v=bxYtYgKj1hM']
+
+podcasts = [
+    'https://www.owasp.org/index.php/OWASP_Podcast',
+    'https://www.recordedfuture.com/resources/podcast/',
+    'https://thecyberwire.com/podcasts/daily-podcast.html',
+    'https://www.fireeye.com/current-threats/threat-intelligence.html',
+    'https://threatpost.com/podcasts/',
+    'https://www.threat
+
