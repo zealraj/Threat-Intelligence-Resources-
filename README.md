@@ -182,6 +182,21 @@ This repository is a comprehensive collection of the most popular and useful Thr
 - [Intelligence and National Security Summit](https://www.intelligenceandnationalsecuritysummit.com/): A summit that brings together government and industry leaders to discuss the latest challenges and opportunities in intelligence and national security.
 - [International Conference on Cyber Security](https://iccs.fordham.edu/): A bi-annual conference hosted by the FBI and Fordham University that focuses on cutting-edge cybersecurity research and practice, including threat intelligence.
 
+# Threat Intelligence Podcasts
+
+- [The CyberWire Daily](https://thecyberwire.com/podcasts/daily-podcast) - A daily briefing on cybersecurity news and events.
+- [Recorded Future](https://www.recordedfuture.com/resources/podcast/) - Podcast series covering current events and trends in the world of cyber threat intelligence.
+- [Smashing Security](https://www.smashingsecurity.com/) - A weekly podcast that covers cybersecurity news, hacking, and online privacy.
+- [The Threat Intelligence Podcast](https://www.threatintelligencepodcast.com/) - Interviews with experts in threat intelligence, incident response, and cybersecurity.
+- [SANS Internet Storm Center](https://isc.sans.edu/podcast.html) - A weekly podcast discussing current internet security threats and vulnerabilities.
+- [Cybersecurity and Cyberwarfare](https://www.cfr.org/podcasts/cybersecurity-and-cyberwarfare) - A podcast by the Council on Foreign Relations covering topics related to cybersecurity and cyberwarfare.
+- [The SecureWorld Sessions](https://www.secureworldexpo.com/resources/podcast) - Conversations with cybersecurity thought leaders on various topics related to information security.
+- [Brakeing Down Security](https://brakeingsecurity.com/) - A podcast that explores security concepts and topics in an effort to educate and raise awareness.
+- [Malicious Life](https://malicious.life/) - A podcast that tells the stories of infamous cyberattacks and the people behind them.
+- [CyberWire Research Saturday](https://thecyberwire.com/podcasts/research-saturday) - A weekly podcast featuring interviews with cybersecurity researchers and experts.
+
+
+
 
 
 
