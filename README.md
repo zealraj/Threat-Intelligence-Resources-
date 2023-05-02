@@ -251,6 +251,29 @@ This repository is a comprehensive collection of the most popular and useful Thr
 - Zscaler Research: https://www.zscaler.com/blogs/research
   A blog from Zscaler, offering insights and analysis of emerging threats and attack techniques, as well as practical guidance for staying safe online.
 
+## Threat Intelligence Twitter Accounts
+
+- [@bad_packets](https://twitter.com/bad_packets) - Tweets about internet abuse, botnets, malware, phishing, and other cyber threats.
+- [@malwrhunterteam](https://twitter.com/malwrhunterteam) - Shares IOCs, malware analysis, and tracks botnets.
+- [@VK_Intel](https://twitter.com/VK_Intel) - Tracks cyber attacks and shares threat intelligence on malware, APT groups, and more.
+- [@cyb3rops](https://twitter.com/cyb3rops) - Shares information about cyber espionage and malware campaigns.
+- [@FireEye](https://twitter.com/FireEye) - FireEye's official Twitter account, shares news about their threat intelligence, research, and services.
+- [@RecordedFuture](https://twitter.com/RecordedFuture) - Shares threat intelligence and analysis on a variety of cyber threats.
+- [@DragosInc](https://twitter.com/DragosInc) - Shares information about ICS/SCADA threats and cyber attacks targeting critical infrastructure.
+- [@tiraniddo](https://twitter.com/tiraniddo) - Shares information about APTs, malware, and cyber espionage.
+- [@ThreatConnect](https://twitter.com/ThreatConnect) - Shares threat intelligence and analysis, and updates about their platform and services.
+- [@josephfcox](https://twitter.com/josephfcox) - Cybersecurity journalist who shares news about cyber threats and intelligence.
+- [@ItsReallyNick](https://twitter.com/ItsReallyNick) - Shares information about cyber threats, malware, and vulnerabilities.
+- [@TheHackersNews](https://twitter.com/TheHackersNews) - Cybersecurity news outlet that shares information about data breaches, vulnerabilities, and cyber attacks.
+- [@Krypt3ia](https://twitter.com/Krypt3ia) - Shares analysis and commentary on current cyber threats and incidents.
+- [@z3roTrust](https://twitter.com/z3roTrust) - Shares information about APT groups, malware campaigns, and cyber espionage.
+- [@cybersecstu](https://twitter.com/cybersecstu) - Shares information about cyber threats and incident response.
+- [@rickey_gevers](https://twitter.com/rickey_gevers) - Shares information about cyber crime and cyber security news and developments.
+- [@4n6ir](https://twitter.com/4n6ir) - Shares information about digital forensics and incident response.
+- [@CyberScoopNews](https://twitter.com/CyberScoopNews) - Cybersecurity news outlet that shares information about data breaches, vulnerabilities, and cyber attacks.
+- [@CISAgov](https://twitter.com/CISAgov) - The official Twitter account of the U.S. Cybersecurity and Infrastructure Security Agency (CISA), which shares information about cyber threats and incident response.
+
+
 
 
 
