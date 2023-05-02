@@ -5,19 +5,33 @@ import webbrowser
 
 # Threat Intelligence Resources
 open_source_intelligence = [
+
     'https://inteltechniques.com/menu.html',
+    
     'https://github.com/jivoi/awesome-osint',
+    
     'https://www.osintessentials.com/',
+    
     'https://github.com/Ph055a/OSINT-Collection',
+    
     'https://osintframework.com/',
+    
     'https://www.shodan.io/',
+    
     'https://www.whois.com/whois/',
+    
     'https://haveibeenpwned.com/',
+    
     'https://spyse.com/',
+    
     'https://hunter.io/',
+    
     'https://www.google.com/advanced_search',
+    
     'https://www.censys.io/',
+    
     'https://github.com/leebaird/discover',
+    
     'https://github.com/sherlock-project/sherlock']
 
 dark_web_intelligence = [
