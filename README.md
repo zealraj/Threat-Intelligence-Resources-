@@ -273,6 +273,18 @@ This repository is a comprehensive collection of the most popular and useful Thr
 - [@CyberScoopNews](https://twitter.com/CyberScoopNews) - Cybersecurity news outlet that shares information about data breaches, vulnerabilities, and cyber attacks.
 - [@CISAgov](https://twitter.com/CISAgov) - The official Twitter account of the U.S. Cybersecurity and Infrastructure Security Agency (CISA), which shares information about cyber threats and incident response.
 
+## Threat Intelligence Books
+
+- [The Threat Intelligence Handbook: A Practical Guide for Security Teams to Unlocking the Power of Intelligence](https://www.amazon.com/Threat-Intelligence-Handbook-Practical-Security/dp/154101636X/) - A comprehensive guide to threat intelligence by industry experts.
+- [The Diamond Model of Intrusion Analysis: A Practical Guide to Attacker Motives, Tactics, and Techniques](https://www.amazon.com/Diamond-Model-Intrusion-Analysis-Techniques-ebook/dp/B00KIIZ5AK/) - A guide on the Diamond Model, a framework for threat intelligence analysis.
+- [Threat Intelligence and Me: An Introduction to Threat Intelligence and Its Role in the Modern World](https://www.amazon.com/Threat-Intelligence-Me-Introduction-Modern-ebook/dp/B07FYSRZBR/) - A beginner's guide to threat intelligence and its role in cybersecurity.
+- [Applied Cyber Threat Intelligence](https://www.amazon.com/Applied-Cyber-Threat-Intelligence-Intelligence-ebook/dp/B07L9FR8WZ/) - A practical guide on the application of threat intelligence in cybersecurity.
+- [Open Source Intelligence Techniques: Resources for Searching and Analyzing Online Information](https://www.amazon.com/Open-Source-Intelligence-Techniques-Information/dp/1530508908/) - A comprehensive guide on open-source intelligence techniques for threat intelligence.
+- [Intelligence-Driven Incident Response: Outwitting the Adversary](https://www.amazon.com/Intelligence-Driven-Incident-Response-Outwitting-Adversary/dp/1491934948/) - A guide on intelligence-driven incident response and threat hunting.
+- [Cybersecurity Blue Team Toolkit: Defending Your Organization from Cyberthreats](https://www.amazon.com/Cybersecurity-Blue-Team-Toolkit-Defending/dp/1119566342/) - A toolkit for building a strong blue team and defending against cyber threats.
+- [Threat Modeling: Designing for Security](https://www.amazon.com/Threat-Modeling-Designing-Adam-Shostack/dp/1118809998/) - A guide on threat modeling and designing for security.
+
+
 
 
 
