@@ -169,6 +169,20 @@ This repository is a comprehensive collection of the most popular and useful Thr
 - [Online Course: Cyber Threat Intelligence Management](https://www.edx.org/course/cyber-threat-intelligence-management)
 - [Online Course: Introduction to Cyber Threat Intelligence](https://www.cybrary.it/course/introduction-cyber-threat-intelligence/)
 
+## Threat Intelligence Conferences
+
+- [SANS Threat Hunting & IR Summit](https://www.sans.org/cyber-security-summit/archives/file/summit-archive-1572361860.pdf): A three-day event hosted by SANS that covers the latest threat hunting and incident response techniques.
+- [FS-ISAC Summit](https://www.fsisac.com/events/event-details/2022-summit): An annual event hosted by the Financial Services Information Sharing and Analysis Center that brings together industry experts to discuss the latest threats and trends in cybersecurity.
+- [FireEye Cyber Defense Summit](https://www.fireeye.com/summit.html): A conference hosted by FireEye that focuses on threat intelligence, incident response, and security operations.
+- [Black Hat USA](https://www.blackhat.com/upcoming.html): An annual conference focused on information security that features briefings and training sessions on a wide range of topics, including threat intelligence and incident response.
+- [RSA Conference](https://www.rsaconference.com/): A global conference that brings together top cybersecurity professionals to discuss the latest trends and challenges in the field, including threat intelligence and analysis.
+- [Threat Intelligence Summit](https://www.threatintelligencesummit.com/): An annual conference focused exclusively on threat intelligence, featuring presentations, workshops, and networking opportunities.
+- [Cyber Threat Intelligence Forum](https://www.cti-league.com/cyber-threat-intelligence-forum/): A conference hosted by the CTI League that covers a wide range of topics related to threat intelligence, including intelligence sharing, attribution, and analysis.
+- [ACM Conference on Computer and Communications Security](https://www.sigsac.org/ccs/CCS2022/): An annual conference that brings together researchers and practitioners in the field of computer and communications security to present and discuss the latest research and developments.
+- [Intelligence and National Security Summit](https://www.intelligenceandnationalsecuritysummit.com/): A summit that brings together government and industry leaders to discuss the latest challenges and opportunities in intelligence and national security.
+- [International Conference on Cyber Security](https://iccs.fordham.edu/): A bi-annual conference hosted by the FBI and Fordham University that focuses on cutting-edge cybersecurity research and practice, including threat intelligence.
+
+
 
 
 
