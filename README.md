@@ -95,6 +95,66 @@ This repository is a comprehensive collection of the most popular and useful Thr
 - [Joe Sandbox](https://www.joesecurity.org/): Automated malware analysis sandbox that can be used for analyzing malware behavior in a safe environment.
 - [Malware Information Sharing Platform (MISP)](https://www.misp-project.org/): Threat intelligence platform that can be used for sharing, storing, and correlating IOCs and other security-related data.
 
+# Threat Intelligence Feeds
+
+- [OTX Alienvault](https://otx.alienvault.com/): Open Threat Exchange.
+- [VirusTotal](https://www.virustotal.com/gui/home/search): Online Virus, Malware and URL Scanner.
+- [AbuseIPDB](https://www.abuseipdb.com/): IP Address Blacklist Check.
+- [PassiveTotal](https://community.riskiq.com/): Threat Research Platform.
+- [MISP Feed](https://www.misp-project.org/feeds/): Free and Open Source Threat Intelligence Feeds.
+- [IPVoid](https://www.ipvoid.com/): IP Address Analysis.
+- [URLVoid](https://www.urlvoid.com/): URL Analysis.
+- [VirusBay](https://beta.virusbay.io/): VirusBay is a web-based security research service powered by the world's largest malware collection.
+- [Malshare](https://malshare.com/): Online Malware Repository.
+- [URLhaus](https://urlhaus.abuse.ch/browse/): Malicious URLs Collection.
+- [PhishTank](https://www.phishtank.com/): Phishing URL Collection.
+- [SANS Internet Storm Center](https://isc.sans.edu/): Internet Security Information and Analysis.
+- [Botvrij.eu](https://www.botvrij.eu/data/feed-osint.php): Open Source Botnet Intelligence Feed.
+- [Spamhaus](https://www.spamhaus.org/): The Spamhaus Project - IP Blocklist.
+- [TalosIntelligence](https://talosintelligence.com/): Cisco Talos Intelligence Group.
+- [AlienVault Open Threat Exchange (OTX) Pulse](https://otx.alienvault.com/pulse/): Threat Intelligence Community.
+- [MalwareBazaar](https://bazaar.abuse.ch/): MalwareBazaar is a project from Abuse.ch with the goal of sharing malware samples with security researchers.
+- [URLScan.io](https://urlscan.io/): Analyze and Scan URLs and Domains.
+- [DNS-BH – Malware Domain Blocklist](http://www.malwaredomains.com/): Malware Domain Blocklist.
+- [Blocklist.de](http://www.blocklist.de/en/index.html): Blocklist.de - Security and blacklist Information.
+- [Clean-MX](https://support.clean-mx.de/clean-mx/viruses.php): The Clean-MX Malware Database.
+- [ThreatCrowd](https://www.threatcrowd.org/): Open Source Threat Intelligence.
+- [IPsum](https://github.com/stamparm/ipsum): Fast and Simple IP Summarizer.
+- [Emerging Threats Open](https://rules.emergingthreats.net/open/): Emerging Threats Open Ruleset.
+- [NoThink! Malware URL](http://www.nothink.org/honeypot.php): NoThink! Malware URL Database.
+- [Ransomware Tracker](https://ransomwaretracker.abuse.ch/): Ransomware Tracker.
+- [URLhaus - Zeus Tracker](https://urlhaus.abuse.ch/browse.php?search=zeus&sort=latest): URLhaus - Zeus Tracker.
+- [Feodo Tracker](https://feodotracker.abuse.ch/): Feodo Tracker.
+- [Malware Traffic Analysis](https://www.malware-traffic-analysis.net/): Malware Traffic Analysis.
+- [Cymon](https://cymon.io/): Open Threat Intelligence Platform.
+- [IBM X-Force Exchange](https://exchange.xforce.ibmcloud.com/): IBM X-Force Exchange.
+- [Zeus Tracker](https://zeustracker.abuse.ch/blocklist.php): Threat intelligence feed for known command-and-control (C&C) servers associated with the Zeus malware       family.
+
+# Threat Intelligence Reports
+
+- [Unit42 - Palo Alto Networks](https://unit42.paloaltonetworks.com/): Threat intelligence blog from Palo Alto Networks.
+- [Symantec Threat Intelligence](https://www.symantec.com/security-center/threat-intelligence): Cybersecurity research from Symantec.
+- [Talos Intelligence](https://blog.talosintelligence.com/): Blog and research from Cisco's Talos Intelligence Group.
+- [FireEye Threat Research](https://www.fireeye.com/current-threats/threat-intelligence.html): Reports and intelligence from cybersecurity firm FireEye.
+- [Kaspersky Threat Research](https://www.kaspersky.com/blog/category/threat-research/): Analysis and research from Kaspersky's Global Research and Analysis Team.
+- [McAfee Threat Center](https://www.mcafee.com/blogs/threat-intelligence/): Threat intelligence and analysis from McAfee.
+- [Fortinet Threat Research](https://www.fortinet.com/blog/threat-research): Research and analysis from Fortinet's FortiGuard Labs.
+- [CrowdStrike](https://www.crowdstrike.com/blog/category/threat-intelligence/): Threat intelligence and research from CrowdStrike.
+- [Check Point Research](https://research.checkpoint.com/): Research and analysis from Check Point Software Technologies.
+- [Dragos Intelligence](https://www.dragos.com/blog/): Industrial control system (ICS) threat intelligence from Dragos.
+- [Darktrace Threat Research](https://www.darktrace.com/en/blog/category/threat-research/): Research and analysis from Darktrace's Cyber Intelligence and Analytics team.
+- [Recorded Future](https://www.recordedfuture.com/blog/): Cyber threat analysis and research from Recorded Future.
+- [Anomali Threat Research](https://www.anomali.com/blog): Threat research and intelligence from Anomali.
+- [F-Secure Threat Research](https://www.f-secure.com/en/business/threat-intelligence): Analysis and research from F-Secure's Threat Intelligence team.
+- [Netskope Threat Labs](https://www.netskope.com/blog/category/threat-research): Research and analysis from Netskope's Threat Labs.
+- [Secureworks Threat Intelligence](https://www.secureworks.com/research/threat-intelligence): Research and analysis from Secureworks.
+- [Zscaler ThreatLabZ](https://www.zscaler.com/blogs/research): Threat research and analysis from Zscaler.
+- [Proofpoint Threat Insight](https://www.proofpoint.com/us/threat-insight): Threat research and intelligence from Proofpoint.
+- [SANS Internet Storm Center](https://isc.sans.edu/): Global cooperative cyber threat and internet security monitor and alert system.
+- [Shadowserver Foundation](https://www.shadowserver.org/): Non-profit organization providing Internet security research and education.
+- [National Vulnerability Database](https://nvd.nist.gov/): US government repository of standards-based vulnerability management data.
+
+
 
 
 
