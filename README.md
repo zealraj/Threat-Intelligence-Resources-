@@ -1,5 +1,5 @@
 # Biggest-cyber-Resource-
-This repository is a comprehensive collection of the most popular and useful cybersecurity resources available on the internet. It includes resources related to various cybersecurity domains, such as network security, web application security, mobile application security, cryptography, and more.
+This repository is a comprehensive collection of the most popular and useful Threat intelligence resources available on the internet. It includes resources related to various Threat intelligence domains.
 
 # Table of Contents
 
