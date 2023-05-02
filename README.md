@@ -15,11 +15,6 @@ This repository is a comprehensive collection of the most popular and useful Thr
 - [Threat Intelligence Twitter Accounts](#threat-intelligence-twitter-accounts)
 - [Threat Intelligence Books](#threat-intelligence-books)
 
-# Table of Contents
-- [Threat Intelligence Platforms](#threat-intelligence-platforms)
-- [Threat Intelligence Feeds](#threat-intelligence-feeds)
-- [Threat Hunting Platforms](#threat-hunting-platforms)
-
 ## Threat Intelligence Platforms
 - [Anomali](https://www.anomali.com/) - A threat intelligence platform that detects, investigates, and responds to cyber threats in real-time.
 - [Recorded Future](https://www.recordedfuture.com/) - A web intelligence platform that helps organizations predict cyber attacks, detect threats, and respond to incidents.
