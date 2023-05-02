@@ -154,6 +154,22 @@ This repository is a comprehensive collection of the most popular and useful Thr
 - [Shadowserver Foundation](https://www.shadowserver.org/): Non-profit organization providing Internet security research and education.
 - [National Vulnerability Database](https://nvd.nist.gov/): US government repository of standards-based vulnerability management data.
 
+# Threat Intelligence Courses and Certifications
+
+- [SANS SEC487: Open-Source Intelligence (OSINT) Gathering and Analysis](https://www.sans.org/cyber-security-courses/open-source-intelligence-gathering/)
+- [SANS FOR578: Cyber Threat Intelligence](https://www.sans.org/cyber-security-courses/cyber-threat-intelligence/)
+- [SANS SEC487: Open-Source Intelligence (OSINT) Gathering and Analysis](https://www.sans.org/cyber-security-courses/open-source-intelligence-gathering/)
+- [Cyber Intelligence Tradecraft Certification](https://www.cyberinteltrainingcenter.com/cyber-intelligence-tradecraft-certification/)
+- [EC-Council Certified Threat Intelligence Analyst (CTIA)](https://www.eccouncil.org/programs/certified-threat-intelligence-analyst-ctia/)
+- [IACIS Certified Cyber Intelligence Investigator (CCII)](https://www.iacis.com/ccii/)
+- [SANS FOR578: Cyber Threat Intelligence](https://www.sans.org/cyber-security-courses/cyber-threat-intelligence/)
+- [DHS Cyber Intelligence Training](https://www.cisa.gov/cyber-intelligence-training)
+- [IBM Threat Intelligence Analyst Professional Certificate](https://www.ibm.com/training/badge/39fc4251-0568-429d-857e-f0ac9f9a2a71)
+- [Cyber Threat Intelligence (CTI) Certificate Program](https://www.ittakesahuman.com/cyber-threat-intelligence-cti-certificate-program/)
+- [Online Course: Cyber Threat Intelligence Management](https://www.edx.org/course/cyber-threat-intelligence-management)
+- [Online Course: Introduction to Cyber Threat Intelligence](https://www.cybrary.it/course/introduction-cyber-threat-intelligence/)
+
+
 
 
 
