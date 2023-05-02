@@ -195,6 +195,61 @@ This repository is a comprehensive collection of the most popular and useful Thr
 - [Malicious Life](https://malicious.life/) - A podcast that tells the stories of infamous cyberattacks and the people behind them.
 - [CyberWire Research Saturday](https://thecyberwire.com/podcasts/research-saturday) - A weekly podcast featuring interviews with cybersecurity researchers and experts.
 
+# Threat Intelligence Blogs
+
+- Krebs on Security: https://krebsonsecurity.com/
+  One of the most popular cybersecurity blogs, written by Brian Krebs, a former Washington Post reporter.
+
+- SANS Internet Storm Center: https://isc.sans.edu/
+  Provides daily and weekly updates on cybersecurity news and trends, as well as in-depth analysis of emerging threats.
+
+- Dark Reading: https://www.darkreading.com/
+  Features news, analysis, and research on cybersecurity, as well as industry trends, best practices, and expert insights.
+
+- FireEye Threat Research: https://www.fireeye.com/blog/threat-research.html
+  Offers insights and analysis of the latest cyber threats and attack techniques, as well as practical guidance for defending against them.
+
+- Threatpost: https://threatpost.com/
+  Provides breaking news, analysis, and opinion on cybersecurity, including coverage of malware, vulnerabilities, and data breaches.
+
+- Talos Intelligence: https://blog.talosintelligence.com/
+  A blog from Cisco's Talos threat intelligence team, featuring research, analysis, and insights into emerging threats and attack techniques.
+
+- Recorded Future: https://www.recordedfuture.com/blog/
+  Covers a range of topics related to threat intelligence, including analysis of threat actors, vulnerability trends, and emerging technologies.
+
+- Trend Micro: https://www.trendmicro.com/vinfo/us/security/news/all
+  Features news and analysis on the latest threats and vulnerabilities, as well as research on threat actors and their tactics.
+
+- The Hacker News: https://thehackernews.com/
+  A popular blog covering cybersecurity news, hacking and cybercrime, as well as industry trends and best practices.
+
+- Naked Security by Sophos: https://nakedsecurity.sophos.com/
+  Features news and analysis on the latest cyber threats and vulnerabilities, as well as practical guidance for staying safe online.
+
+- Infosec Institute: https://resources.infosecinstitute.com/
+  Offers a range of cybersecurity resources, including blogs, articles, and training materials.
+
+- SecurityWeek: https://www.securityweek.com/
+  Provides news and analysis on the latest cyber threats and vulnerabilities, as well as coverage of emerging trends and technologies.
+
+- Cisco Security: https://blogs.cisco.com/security
+  Features news, analysis, and insights into the latest cybersecurity threats, as well as practical guidance for protecting against them.
+
+- Cybereason: https://www.cybereason.com/blog
+  A blog from the Cybereason threat intelligence team, offering analysis and insights into emerging threats and attack techniques.
+
+- Securelist by Kaspersky: https://securelist.com/
+  Offers insights and analysis of the latest cyber threats and attack techniques, as well as research on threat actors and their tactics.
+
+- McAfee Blogs: https://www.mcafee.com/blogs/
+  A blog from McAfee, featuring news, analysis, and insights into the latest cybersecurity threats and trends.
+
+- Check Point Research: https://research.checkpoint.com/
+  Provides in-depth analysis of the latest cyber threats and vulnerabilities, as well as practical guidance for defending against them.
+
+- Zscaler Research: https://www.zscaler.com/blogs/research
+  A blog from Zscaler, offering insights and analysis of emerging threats and attack techniques, as well as practical guidance for staying safe online.
 
 
 
